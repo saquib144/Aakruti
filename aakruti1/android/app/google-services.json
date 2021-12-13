@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606505980692",
+    "project_id": "aakruti-122fd",
+    "storage_bucket": "aakruti-122fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606505980692:android:31ed5ece5517d6e581a801",
+        "android_client_info": {
+          "package_name": "com.example.aakruti1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606505980692-afvqh4je9fg2frl6j8pr09b1fpbi1v1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzWNo8EXdH5BKUp89O0--mYXHwFLMAGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606505980692-afvqh4je9fg2frl6j8pr09b1fpbi1v1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
